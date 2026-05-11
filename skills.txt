@@ -1,0 +1,29 @@
+python
+java
+c
+c++
+sql
+machine learning
+data analysis
+deep learning
+html
+css
+javascript
+react
+node.js
+mongodb
+mysql
+git
+github
+aws
+docker
+kubernetes
+linux
+ai
+nlp
+pandas
+numpy
+tensorflow
+pytorch
+fastapi
+streamlit
